@@ -36,7 +36,8 @@
 ### 6. Laboratorios y retos prácticos resueltos
 - [CyberDefenders](./Retos/cyberdefenders.md)
 - [Blue Team Labs Online](./Retos/btlo.md)
-- [Hack The Box](./Retos/htb.md)
+- [Hack The Box](https://academy.hackthebox.com/achievement/1833840/81)
+- [TryHackMe] (https://tryhackme.com/soc-sim/public-summary/de3d223ba86a62b4f7403430eebbb238ee3930f9f24ec48b58c55c83720e5227334cd9961e6cfd042451da2eca83ec37)
 
 ### 7. Recursos adicionales
 - Cheatsheets

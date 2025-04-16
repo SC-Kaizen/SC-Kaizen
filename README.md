@@ -43,7 +43,7 @@
 - Casos prácticos:
   - [Captura y análisis de tráfico sospechoso](./Redes/trafico_sospechoso.md)
 
-### 6. Retos prácticos resueltos
+### 6. Laboratorios y retos prácticos resueltos
 - [CyberDefenders](./Retos/cyberdefenders.md)
 - [Blue Team Labs Online](./Retos/btlo.md)
 - [Hack The Box](./Retos/htb.md)

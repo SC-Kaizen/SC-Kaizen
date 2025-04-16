@@ -4,7 +4,7 @@
 
 ---
 
-## Contenido
+## Conocimientos Adquiridos
 
 ### 1. Fundamentos de Ciberseguridad (Google Certificate)
 - Principios: Confidencialidad, Integridad, Disponibilidad (CIA)

@@ -4,16 +4,6 @@
 
 ---
 
-## 📜 Certificaciones
-
-| Curso                                         | Plataforma            | Enlace al Certificado                                     |
-|-----------------------------------------------|-----------------------|-----------------------------------------------------------|
-| Certificado Profesional de Ciberseguridad     | Google / Coursera     | [Ver certificado](https://coursera.org/share/69c60c033056eca1f96891baea40975f) |
-| Seguridad Defensiva                           | Udemy                 | [Ver certificado](https://www.udemy.com/certificate/UC-39ed4963-31e9-4499-ba50-6dfdfb9888a9/) |
-| Introducción a PowerShell                     | Security Blue Team    | [Ver certificado](https://elearning.securityblue.team/home/certificate/542665364) |
-| Introducción a Forense Digital                | Security Blue Team    | [Ver certificado](https://elearning.securityblue.team/home/certificate/103884137) |
-
-
 ## Conocimientos Adquiridos
 
 ### 1. Fundamentos de Ciberseguridad (Google Certificate)
